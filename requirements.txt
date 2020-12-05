@@ -1,0 +1,8 @@
+pandas
+bs4
+tweepy
+twitter
+walkdir==0.4.1
+simplejson==3.15.0
+Logbook==1.4.0
+twython==3.7.0
