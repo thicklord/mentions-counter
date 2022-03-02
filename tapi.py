@@ -7,10 +7,10 @@ from tool_wrapper import *
 
 # API key dictionary
 tw_credentials = {
-    "CONSUMER_KEY": 'Ok1mKcxNQWwX80KKIZZy1ouvU',
-    "CONSUMER_SECRET": 'olcUdHvgK0AY40HPeyxiuunSNtG52qSqY4NIIZ23mpieMAoPIP',
-    "ACCESS_KEY": '835204228859760641-nlxEx3Z3Hb9Gng2lpTVyDdxn1mJj3FN',
-    "ACCESS_SECRET": 'nKjb64WWEJ1qfwP1iXY12kXzVuvePx2RPem74h80ZRTIc'
+    "CONSUMER_KEY": '',
+    "CONSUMER_SECRET": '',
+    "ACCESS_KEY": '',
+    "ACCESS_SECRET": ''
 }
 
 # API initialization
